@@ -4,3 +4,6 @@ Machine Learning Study to determine differences and relationship between anticip
 Study started June 2, 2026
 This study involed watching a horror short twice. The idea is that the first time, there is no way of knowing how the short goes, but the second time, all the moments of tension and scariness are anticipated.
 This uses BIOPAC's ECG, PPG and RESP sensors to detect
+
+First test: Printed 51.49788193703715% accuracy
+Second test: Printed 51.51464358638345% accuracy
